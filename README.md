@@ -2,6 +2,5 @@
 Super
 nbn
 issue
-nnkk
 
 
