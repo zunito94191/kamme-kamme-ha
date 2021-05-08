@@ -1,5 +1,4 @@
 # kamme-kamme-ha
-Super
 
 
 
